@@ -1,0 +1,13 @@
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\bin\Debug\netcoreapp3.1\LR2_3.exe
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\bin\Debug\netcoreapp3.1\LR2_3.deps.json
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\bin\Debug\netcoreapp3.1\LR2_3.runtimeconfig.json
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\bin\Debug\netcoreapp3.1\LR2_3.runtimeconfig.dev.json
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\bin\Debug\netcoreapp3.1\LR2_3.dll
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\bin\Debug\netcoreapp3.1\LR2_3.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.AssemblyInfoInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.AssemblyInfo.cs
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.dll
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR2_3\obj\Debug\netcoreapp3.1\LR2_3.genruntimeconfig.cache
