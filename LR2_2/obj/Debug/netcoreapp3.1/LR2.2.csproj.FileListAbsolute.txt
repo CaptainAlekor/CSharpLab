@@ -1,0 +1,13 @@
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\bin\Debug\netcoreapp3.1\LR2.2.exe
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\bin\Debug\netcoreapp3.1\LR2.2.deps.json
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\bin\Debug\netcoreapp3.1\LR2.2.runtimeconfig.json
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\bin\Debug\netcoreapp3.1\LR2.2.runtimeconfig.dev.json
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\bin\Debug\netcoreapp3.1\LR2.2.dll
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\bin\Debug\netcoreapp3.1\LR2.2.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.AssemblyInfoInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.AssemblyInfo.cs
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.dll
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR2_2\obj\Debug\netcoreapp3.1\LR2.2.genruntimeconfig.cache
