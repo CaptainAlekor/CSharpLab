@@ -1,0 +1,14 @@
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\bin\Debug\LR4_2.exe.config
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\bin\Debug\LR4_2.exe
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\bin\Debug\LR4_2.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\obj\Debug\LR4_2.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\obj\Debug\LR4_2.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\obj\Debug\LR4_2.exe
+D:\Work\Лабораторные работы\2 ИСП\LR4_2\obj\Debug\LR4_2.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\bin\Debug\LR4_2.exe.config
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\bin\Debug\LR4_2.exe
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\bin\Debug\LR4_2.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\obj\Debug\LR4_2.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\obj\Debug\LR4_2.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\obj\Debug\LR4_2.exe
+D:\Work\Лабораторные работы\2 ИСП\LR4_2w\obj\Debug\LR4_2.pdb
