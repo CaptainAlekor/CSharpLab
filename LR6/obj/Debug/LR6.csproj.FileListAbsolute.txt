@@ -1,0 +1,7 @@
+D:\Work\Лабораторные работы\2 ИСП\LR6\bin\Debug\LR6.exe.config
+D:\Work\Лабораторные работы\2 ИСП\LR6\bin\Debug\LR6.exe
+D:\Work\Лабораторные работы\2 ИСП\LR6\bin\Debug\LR6.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR6\obj\Debug\LR6.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR6\obj\Debug\LR6.exe
+D:\Work\Лабораторные работы\2 ИСП\LR6\obj\Debug\LR6.pdb
