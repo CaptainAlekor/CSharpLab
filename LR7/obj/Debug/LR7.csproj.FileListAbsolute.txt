@@ -1,0 +1,7 @@
+D:\Work\Лабораторные работы\2 ИСП\LR7\bin\Debug\LR7.exe.config
+D:\Work\Лабораторные работы\2 ИСП\LR7\bin\Debug\LR7.exe
+D:\Work\Лабораторные работы\2 ИСП\LR7\bin\Debug\LR7.pdb
+D:\Work\Лабораторные работы\2 ИСП\LR7\obj\Debug\LR7.csprojAssemblyReference.cache
+D:\Work\Лабораторные работы\2 ИСП\LR7\obj\Debug\LR7.csproj.CoreCompileInputs.cache
+D:\Work\Лабораторные работы\2 ИСП\LR7\obj\Debug\LR7.exe
+D:\Work\Лабораторные работы\2 ИСП\LR7\obj\Debug\LR7.pdb
